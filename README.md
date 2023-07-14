@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahittinn&label=Profile%20views&color=0e75b6&style=flat" alt="bahittinn" /> </p>
 
-- 🔭 I’m currently working on [Mentalsoft](https://mentalsoft.net)
-
 - 🌱 I’m currently learning **Swift**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bahittinn](https://github.com/bahittinn)
