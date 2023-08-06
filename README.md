@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bahittin84@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/bahittin-s%C3%BCrmeli-1b47191b5/](https://www.linkedin.com/in/bahittin-s%C3%BCrmeli-1b47191b5/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/bahittin-sürmeli-1b47191b5/](https://www.linkedin.com/in/bahittin-s%C3%BCrmeli-1b47191b5/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
